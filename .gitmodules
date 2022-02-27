@@ -1,6 +1,6 @@
 [submodule "api"]
  path = api
- url = git@github.com:harukata4477/test_api.git
+ url = git@github.com:works4729/post_map-api.git
 [submodule "front"]
  path = front
- url = git@github.com:harukata4477/test_front.git
+ url = git@github.com:works4729/post_map-front.git
