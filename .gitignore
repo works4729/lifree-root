@@ -1,2 +1,5 @@
 /.env
 /.DS_Store
+# Nuxt.js テレメトリーファイル
+# Doc: https://nuxtjs.org/api/configuration-telemetry/
+/.nuxtrc
